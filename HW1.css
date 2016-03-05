@@ -1,0 +1,64 @@
+body {
+    background-color: blue;
+    font-size: 180%
+}
+
+h1 {
+    color: white;
+    border: 1px solid black;
+    padding: 10px;
+    text-align: center;
+    background-color: brown;
+    width: 610px;
+    height: 100px;
+    text-shadow: 2px 2px blue;
+
+}
+h2 {
+    color: white;
+    border: 1px solid black;
+    padding: 10px;
+    text-align: center;
+    background-color: purple;
+    text-shadow: 2px 2px blue;
+}
+h3 {
+    color: white;
+    padding: 10px;
+    text-align: center;
+    text-shadow: 2px 2px blue;
+}
+.yellow {
+  background-color: yellow;
+  border: 1px solid black;
+  padding: 0 16px;
+}
+h4 {
+    color: white;
+      border: 1px solid black;
+      padding: 10px;
+      text-align: center;
+      background-color: green;
+      text-shadow: 2px 2px blue;
+  }
+h5 {
+    color: white;
+      border: 1px solid black;
+      padding: 10px;
+      text-align: center;
+      background-color: red;
+      text-shadow: 2px 2px blue;
+}
+h6 {
+    color: white;
+    border: 1px solid black;
+    padding: 10px;
+    text-align: center;
+    background-color: pink;
+    text-shadow: 2px 2px blue;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-size: 32px;
+  margin: 32px 0;
+}
